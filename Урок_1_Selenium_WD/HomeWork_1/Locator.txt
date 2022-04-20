@@ -1,0 +1,21 @@
+1. https://haier.20a.ru/login.html   локатор на  кнопку вход
+    //tr/td/input[@class]     
+
+2. https://gb.ru/                          локатор на  footer, link - оферта
+    /html/body//div[@id = 'footer-monolit']//a[position()=2]
+
+3. https://tproger.ru/                  локатор на контактный e_mail
+    //a[contains(text(),'sales@')]
+
+4.  https://javarush.ru/              локатор на чекбокс день-ночь
+     /html/body//div//header//input
+
+5. https://haieronline.ru/            локатор на  кнопку чата 
+   html/body//button[@id]
+
+6. http://htmlbook.ru/              локатор на картинку   рекламы html_academy
+    /html/body//div//p[@class]/img
+
+
+
+
